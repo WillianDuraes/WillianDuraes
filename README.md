@@ -2,7 +2,7 @@
 
 **``Desenvolvedor Júnior FullStack``**
 
-Me chamo Willian Durães, tenho 20 anos e sou natural do Rio de Janeiro. Concluí o ensino médio na SEEDUC e possuo certificações em Informática Avançada, com conhecimentos em montagem de computadores, redes e hardware. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por programação e tecnologia, sempre buscando aprender e evoluir como desenvolvedor.
+Eu me chamo Willian Durães, tenho 20 anos e sou natural do Rio de Janeiro. Concluí o ensino médio na SEEDUC e possuo certificações em Informática Avançada, com conhecimentos em montagem e manutenção de computadores, redes e hardware. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por programação e tecnologia, sempre buscando aprender e evoluir como desenvolvedor.
 
 ---
 
