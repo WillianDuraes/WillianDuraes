@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Willian Durães
+# 👨🏻‍💻 Willian Durães
 
 **``Desenvolvedor Júnior FullStack``**
 
