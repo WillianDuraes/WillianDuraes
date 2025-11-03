@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#1DBEC0&height=120&section=header"/>
 
 # 👨🏻‍💻 Willian Durães
 
@@ -135,4 +135,4 @@ Me chamo Willian Durães, tenho 20 anos e sou natural do Rio de Janeiro. Conclu�
 
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#1DBEC0&height=120&section=footer"/>
