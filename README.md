@@ -53,30 +53,4 @@
 
 ---
 
-### 🌐 <span>Conecte-se comigo</span>
-
-<p align="center">
-  <a href="https://github.com/WillianDuraes" target="_blank" style="text-decoration:none; border:0; display:inline-block;">
-    <img 
-      alt="GitHub" 
-      src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" 
-      style="display:inline-block; vertical-align:middle; border:0;"
-    />
-  </a><!--
-  --><a href="https://www.instagram.com/021_2lw" target="_blank" style="text-decoration:none; border:0; display:inline-block;">
-    <img 
-      alt="Instagram" 
-      src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00BFFF" 
-      style="display:inline-block; vertical-align:middle; border:0;"
-    />
-  </a><!--
-  --><a href="https://discord.com/users/763140608415891477" target="_blank" style="text-decoration:none; border:0; display:inline-block;">
-    <img 
-      alt="Discord" 
-      src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=00BFFF" 
-      style="display:inline-block; vertical-align:middle; border:0;"
-    />
-  </a>
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
