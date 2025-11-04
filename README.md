@@ -1,11 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+<!-- HEADER DINÂMICO -->
+<picture>
+  <source srcset="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header" media="(prefers-color-scheme: light)"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+</picture>
 
 <h1 align="center">👨🏻‍💻 Willian Durães</h1>
 
 <p align="center">
-  <span style="font-weight:bold; font-size:15px;">
-    <b><i>Desenvolvedor Júnior FullStack</i></b>
-  </span>
+  <b><i>Desenvolvedor Júnior FullStack</i></b>
 </p>
 
 <p align="center">
@@ -18,7 +21,7 @@
 
 ---
 
-### 🤖 <span>Linguagens e Tecnologias</span>
+### 🤖 Linguagens e Tecnologias
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" title="HTML"/>
@@ -37,45 +40,89 @@
 
 ---
 
-### 📊 <span>Estatísticas</span>
+### 📊 Estatísticas
 
 <p align="center">
-  <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=willianduraes&show_icons=true&theme=tokyonight&title_color=00BFFF&icon_color=00BFFF&text_color=C0C0C0&bg_color=0D1117" 
-  />
-  <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianduraes&layout=compact&theme=tokyonight&title_color=00BFFF&text_color=C0C0C0&bg_color=0D1117&langs_count=10" 
-  />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=willianduraes&show_icons=true&theme=tokyonight&title_color=00BFFF&icon_color=00BFFF&text_color=C0C0C0&bg_color=0D1117" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=willianduraes&show_icons=true&theme=default&title_color=1E90FF" 
+      media="(prefers-color-scheme: light)" />
+    <img 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api?username=willianduraes&show_icons=true&theme=default"
+    />
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=willianduraes&layout=compact&theme=tokyonight&title_color=00BFFF&text_color=C0C0C0&bg_color=0D1117&langs_count=10" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=willianduraes&layout=compact&theme=default&title_color=1E90FF&langs_count=10" 
+      media="(prefers-color-scheme: light)" />
+    <img 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianduraes&layout=compact&theme=default&langs_count=10"
+    />
+  </picture>
 </p>
 
 ---
 
-### 🌐 <span>Conecte-se comigo</span>
+### 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://github.com/WillianDuraes" target="_blank" style="text-decoration:none; border:0; display:inline-block;">
+  <!-- GitHub -->
+  <picture>
+    <source 
+      srcset="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=0D1117" 
+      media="(prefers-color-scheme: light)" />
     <img 
       alt="GitHub" 
-      src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" 
-      style="display:inline-block; vertical-align:middle; border:0;"
+      src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=0D1117"
     />
-  </a><!--
-  --><a href="https://www.instagram.com/021_2lw" target="_blank" style="text-decoration:none; border:0; display:inline-block;">
+  </picture>
+
+  <!-- Instagram -->
+  <picture>
+    <source 
+      srcset="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00BFFF" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E1306C" 
+      media="(prefers-color-scheme: light)" />
     <img 
       alt="Instagram" 
-      src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00BFFF" 
-      style="display:inline-block; vertical-align:middle; border:0;"
+      src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E1306C"
     />
-  </a><!--
-  --><a href="https://discord.com/users/763140608415891477" target="_blank" style="text-decoration:none; border:0; display:inline-block;">
+  </picture>
+
+  <!-- Discord -->
+  <picture>
+    <source 
+      srcset="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=00BFFF" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=5865F2" 
+      media="(prefers-color-scheme: light)" />
     <img 
       alt="Discord" 
-      src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=00BFFF" 
-      style="display:inline-block; vertical-align:middle; border:0;"
+      src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=5865F2"
     />
-  </a>
+  </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+---
+
+<!-- FOOTER DINÂMICO -->
+<picture>
+  <source srcset="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer" media="(prefers-color-scheme: light)"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+</picture>
