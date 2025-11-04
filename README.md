@@ -8,12 +8,14 @@
   </span>
 </p>
 
-<p align="center" style="max-width: 800px; margin: auto; text-align: justify;">
-  Me chamo <b>Willian Durães</b>, tenho 20 anos e sou natural do <b>Rio de Janeiro</b>.
+<p
+  align="center"
+  <span style="display: inline-block; text-align: justify; max-width: 800px;">
+  Eu me chamo <b>Willian</b>, tenho 20 anos e sou natural do <b>Rio de Janeiro.</b>
   Concluí o ensino médio na <b>SEEDUC</b> e possuo certificações em 
-  <b>Informática Avançada</b>, <b>Montagem e Manutenção de Computadores</b>, <b>Redes</b> e <b>Hardware</b>.
-  Atualmente, estou cursando <b>Análise e Desenvolvimento de Sistemas</b> na <b>Estácio</b>.
-  Sou apaixonado por <b>programação</b> e <b>tecnologia</b>, sempre buscando aprender e evoluir como desenvolvedor.
+  <b>Informática Avançada</b>, <b>Montagem e Manutenção de Computadores</b>, <b>Redes</b> e <b>Hardware.</b>
+  Atualmente, estou cursando <b>Análise e Desenvolvimento de Sistemas.</b>
+  Sou apaixonado por <b>programação</b> e <b>tecnologia,</b> sempre buscando aprender e evoluir como desenvolvedor.
 </p>
 
 
