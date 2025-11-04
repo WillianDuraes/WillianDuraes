@@ -72,50 +72,30 @@
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🌐 <span>Conecte-se comigo</span>
 
 <p align="center">
-  <!-- GitHub -->
-  <picture>
-    <source 
-      srcset="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=0D1117" 
-      media="(prefers-color-scheme: light)" />
+  <a href="https://github.com/WillianDuraes" target="_blank" style="text-decoration:none; border:0; display:inline-block;">
     <img 
       alt="GitHub" 
-      src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=0D1117"
+      src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" 
+      style="display:inline-block; vertical-align:middle; border:0;"
     />
-  </picture>
-
-  <!-- Instagram -->
-  <picture>
-    <source 
-      srcset="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00BFFF" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E1306C" 
-      media="(prefers-color-scheme: light)" />
+  </a><!--
+  --><a href="https://www.instagram.com/021_2lw" target="_blank" style="text-decoration:none; border:0; display:inline-block;">
     <img 
       alt="Instagram" 
-      src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E1306C"
+      src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00BFFF" 
+      style="display:inline-block; vertical-align:middle; border:0;"
     />
-  </picture>
-
-  <!-- Discord -->
-  <picture>
-    <source 
-      srcset="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=00BFFF" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=5865F2" 
-      media="(prefers-color-scheme: light)" />
+  </a><!--
+  --><a href="https://discord.com/users/763140608415891477" target="_blank" style="text-decoration:none; border:0; display:inline-block;">
     <img 
       alt="Discord" 
-      src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=5865F2"
+      src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=00BFFF" 
+      style="display:inline-block; vertical-align:middle; border:0;"
     />
-  </picture>
+  </a>
 </p>
 
 ---
