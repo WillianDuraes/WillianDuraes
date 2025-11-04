@@ -1,14 +1,11 @@
-<!-- HEADER DINÂMICO -->
-<picture>
-  <source srcset="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header" media="(prefers-color-scheme: dark)"/>
-  <source srcset="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header" media="(prefers-color-scheme: light)"/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 <h1 align="center">👨🏻‍💻 Willian Durães</h1>
 
 <p align="center">
-  <b><i>Desenvolvedor Júnior FullStack</i></b>
+  <span style="font-weight:bold; font-size:15px;">
+    <b><i>Desenvolvedor Júnior FullStack</i></b>
+  </span>
 </p>
 
 <p align="center">
@@ -21,7 +18,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 <span>Linguagens e Tecnologias</span>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" title="HTML"/>
@@ -40,34 +37,17 @@
 
 ---
 
-### 📊 Estatísticas
+### 📊 <span>Estatísticas</span>
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=willianduraes&show_icons=true&theme=tokyonight&title_color=00BFFF&icon_color=00BFFF&text_color=C0C0C0&bg_color=0D1117" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=willianduraes&show_icons=true&theme=default&title_color=1E90FF" 
-      media="(prefers-color-scheme: light)" />
-    <img 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api?username=willianduraes&show_icons=true&theme=default"
-    />
-  </picture>
-  
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=willianduraes&layout=compact&theme=tokyonight&title_color=00BFFF&text_color=C0C0C0&bg_color=0D1117&langs_count=10" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=willianduraes&layout=compact&theme=default&title_color=1E90FF&langs_count=10" 
-      media="(prefers-color-scheme: light)" />
-    <img 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianduraes&layout=compact&theme=default&langs_count=10"
-    />
-  </picture>
+  <img 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=willianduraes&show_icons=true&theme=tokyonight&title_color=00BFFF&icon_color=00BFFF&text_color=C0C0C0&bg_color=0D1117" 
+  />
+  <img 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianduraes&layout=compact&theme=tokyonight&title_color=00BFFF&text_color=C0C0C0&bg_color=0D1117&langs_count=10" 
+  />
 </p>
 
 ---
@@ -98,11 +78,4 @@
   </a>
 </p>
 
----
-
-<!-- FOOTER DINÂMICO -->
-<picture>
-  <source srcset="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer" media="(prefers-color-scheme: dark)"/>
-  <source srcset="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer" media="(prefers-color-scheme: light)"/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
